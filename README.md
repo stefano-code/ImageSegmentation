@@ -58,10 +58,12 @@ The project is organized into a few key components:
 - **Assets**
   - Contains the segmentation model:
     - `deeplabv3_257.tflite`
+---
 
 ## 📷 Screenshot
----<img width="360" height="780" alt="Screenshot_20260126_233506" src="https://github.com/user-attachments/assets/89850385-71f9-44eb-9698-a0cf6e71880a" />
+<img width="360" height="780" alt="Screenshot_20260126_233506" src="https://github.com/user-attachments/assets/89850385-71f9-44eb-9698-a0cf6e71880a" />
 
+---
 ## 🚀 Getting started
 
 ### 1. Clone the repository
